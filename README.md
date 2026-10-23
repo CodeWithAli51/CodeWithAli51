@@ -1,202 +1,157 @@
-# Student ML Datasets for Practice
+# Ali Abdul Gafoor Shaikh
 
-A clean, beginner-friendly collection of synthetic student datasets for practicing data analysis, regression, and classification in Python.
+<div align="center">
 
-This repository contains six CSV datasets designed for learning machine learning concepts with realistic, classroom-style examples. The data focuses on student CGPA, IQ, placement outcomes, and salary/package trends, making it useful for teaching, experimentation, and portfolio projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=3B82F6&center=true&vCenter=true&width=720&lines=B.Sc.+Data+Science+Student;Machine+Learning+%2F+AI+Developer;Full-Stack+Python+Developer;Turning+real+problems+into+shipped+products" alt="Typing SVG" />
 
-## Why this repository?
+<br/>
 
-These datasets are ideal for:
+[![Location](https://img.shields.io/badge/Mumbai%2C%20India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishaikhemail51@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithAli51)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
-- Learning Python and Pandas
-- Practicing Exploratory Data Analysis (EDA)
-- Building Simple Linear Regression models
-- Building Multiple Linear Regression models
-- Training Classification models
-- Comparing model behavior across small and medium-sized datasets
-- Using datasets in Jupyter Notebook, Google Colab, Kaggle, or local Python environments
+</div>
 
-## Dataset Collection
+---
 
-| No. | Dataset | Rows | Features | ML Task |
-|:---:|---|---:|---|---|
-| 1 | `cgpa_package_100.csv` | 100 | `cgpa`, `package` | Simple Linear Regression |
-| 2 | `cgpa_package_300.csv` | 300 | `cgpa`, `package` | Simple Linear Regression |
-| 3 | `cgpa_iq_package_100.csv` | 100 | `cgpa`, `iq`, `package` | Multiple Linear Regression |
-| 4 | `cgpa_iq_package_300.csv` | 300 | `cgpa`, `iq`, `package` | Multiple Linear Regression |
-| 5 | `placement_yes_no_100.csv` | 100 | `cgpa`, `iq`, `placement` | Binary Classification |
-| 6 | `placement_yes_no_300.csv` | 300 | `cgpa`, `iq`, `placement` | Binary Classification |
+## About Me
 
-## Dataset descriptions
+I'm a **B.Sc. Data Science** student who builds AI/ML applications, real-time web systems, and student-focused software products. I have shipped **12+ projects** across machine learning, LLM integrations, dashboards, education technology, and full-stack development.
 
-### 1) CGPA vs Package
-This dataset contains a single feature (`cgpa`) and a target variable (`package`). It is suitable for learning how to model a relationship between a student’s academic performance and their offered package.
+- Currently building AI-powered products with **Python, Flask, Django, and React**
+- Working with **LLM APIs, prompt engineering, and AI agents**
+- Focused on turning practical problems into **deployable products**
+- Part-time instructor, teaching MS Office, Canva, and ChatGPT to beginners
+- Based in **Mumbai, Maharashtra**
 
-- Input feature: `cgpa`
-- Target: `package`
+---
 
-### 2) CGPA, IQ, and Package
-This dataset adds `iq` as an additional input feature, allowing learners to explore Multivariate Linear Regression.
+## Tech Stack
 
-- Input features: `cgpa`, `iq`
-- Target: `package`
+**Languages**
 
-### 3) Placement Classification
-This dataset uses `cgpa` and `iq` to predict whether a student is placed or not.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- Input features: `cgpa`, `iq`
-- Target: `placement`
-- Classes: `Yes`, `No`
+**Machine Learning / Data**
 
-## Repository structure
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-```text
-.
-├── README.md
-├── cgpa_package_100.csv
-├── cgpa_package_300.csv
-├── cgpa_iq_package_100.csv
-├── cgpa_iq_package_300.csv
-├── placement_yes_no_100.csv
-├── placement_yes_no_300.csv
-├── get-quickly.md
-├── Use-any-quickly
-└── LICENSE (if present in your branch)
-```
+**AI / LLM**
 
-## Quick start
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0F766E?style=flat-square&logo=probot&logoColor=white)
 
-Install the required dependencies:
+**Backend**
 
-```bash
-pip install pandas numpy scikit-learn
-```
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-Load a dataset directly from GitHub:
+**Frontend**
 
-```python
-import pandas as pd
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-url = "https://raw.githubusercontent.com/CodeWithAli51/CodeWithAli51/main/cgpa_package_100.csv"
-df = pd.read_csv(url)
+**Databases & Tools**
 
-print(df.head())
-print(df.shape)
-print(df.columns)
-```
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Example: Exploratory Data Analysis
+---
 
-```python
-import pandas as pd
+## Featured Projects
 
-url = "https://raw.githubusercontent.com/CodeWithAli51/CodeWithAli51/main/cgpa_iq_package_300.csv"
-df = pd.read_csv(url)
+### LostNet — Proximity-Based AI Chatrooms
+A campus-based real-time chat platform where AI agents host thematic chatrooms accessed through QR codes. Includes proximity validation inside a 500m campus radius, username-only entry with no accounts, ephemeral sessions, and WebSocket messaging. Five AI-hosted rooms, each with a distinct personality: Socrates, Campus Guide, Dev Mentor, Creative Muse, and Debate Moderator.
 
-print(df.head())
-print(df.info())
-print(df.describe())
-print(df.isnull().sum())
-```
+`Node.js` `Express` `Socket.IO` `Redis` `React` `Vite` `TailwindCSS` `Geo-distance` `html5-qrcode`
 
-## Example: Simple Linear Regression
+### WeatherGPT — AI Weather Intelligence Platform
+An AI-powered weather platform combining conversational weather assistance with live weather data and monitoring. Features voice interaction, Marathi language support, satellite and radar views, API-key ranking with conflict handling, personalized alerts, and map-based monitoring for multiple areas.
 
-```python
-import pandas as pd
-from sklearn.linear_model import LinearRegression
+`Python` `Flask` `JavaScript` `Weather APIs` `LLM Integration` `Maps`
 
-url = "https://raw.githubusercontent.com/CodeWithAli51/CodeWithAli51/main/cgpa_package_300.csv"
-df = pd.read_csv(url)
+### StudyMate — Education Platform
+A multi-feature learning platform with student dashboards, subjects, practice sets, progress tracking, revision tools, planning, and gamification. Adds AI-assisted explanations, quizzes, hints, and answer checking.
 
-X = df[["cgpa"]]
-y = df["package"]
+`Django` `AI` `Student Productivity`
 
-model = LinearRegression()
-model.fit(X, y)
+### LinkeOut — AI Text Assistant
+A deployed AI application that rewrites text into professional communication styles, built around practical LLM integration and user-focused product design.
 
-print("Coefficient:", model.coef_[0])
-print("Intercept:", model.intercept_)
-```
+`Flask` `GPT-4o-mini` `Streamlit`
 
-## Example: Multiple Linear Regression
+### NedHub — AI Chat
+An AI chat web app with conversation persistence, request validation, and API integration, focused on backend reliability.
 
-```python
-import pandas as pd
-from sklearn.linear_model import LinearRegression
+`Flask` `GitHub Models API` `JavaScript`
 
-url = "https://raw.githubusercontent.com/CodeWithAli51/CodeWithAli51/main/cgpa_iq_package_300.csv"
-df = pd.read_csv(url)
+### CutNow — Queue Management SaaS
+A QR-based queue management concept for barbershops: customers join a digital queue while staff work from a dashboard-oriented workflow.
 
-X = df[["cgpa", "iq"]]
-y = df["package"]
+`Flask` `JavaScript` `Database`
 
-model = LinearRegression()
-model.fit(X, y)
+---
 
-print(model.coef_)
-print(model.intercept_)
-```
+## Experience
 
-## Example: Classification
+**Computer Basics Instructor** — Meher Roshani Foundation *(Part-time)*
 
-```python
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
+- Teach MS Office, Canva, and ChatGPT through hands-on lessons, practical exercises, and activity-based learning.
+- Build structured practice material and workflows for beginner learners, translating technical concepts into simple, usable steps.
 
-url = "https://raw.githubusercontent.com/CodeWithAli51/CodeWithAli51/main/placement_yes_no_100.csv"
-df = pd.read_csv(url)
+---
 
-X = df[["cgpa", "iq"]]
-y = df["placement"]
+## Education & Achievements
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+- **B.Sc. Data Science** — Valia C.L. College of Commerce and Arts, Mumbai *(Expected 2027)*
+- **2nd Rank** — NUERANEX Intercollegiate IT Competition (2025)
+- **Participant** — ISRO Bharatiya Antariksh Hackathon (2026)
+- **Byte Brainiacs ML Showdown** — Team TechXplorers (2025)
+- **Certifications** — CCC, NIELIT (Govt. of India) · MS Office Certificate, ICIT Computer Institute
 
-model = LogisticRegression(max_iter=1000)
-model.fit(X_train, y_train)
+---
 
-predictions = model.predict(X_test)
-print("Accuracy:", accuracy_score(y_test, predictions))
-```
+## GitHub Stats
 
-## Learning objectives
+<div align="center">
 
-This repository helps learners practice:
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeWithAli51&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAli51&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
 
-- Data loading and cleaning
-- Feature and target selection
-- Exploratory Data Analysis (EDA)
-- Linear Regression
-- Multiple Regression
-- Binary Classification
-- Model evaluation and comparison
+<img src="https://streak-stats.demolab.com?user=CodeWithAli51&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-## Technologies used
+</div>
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Jupyter Notebook / Google Colab
-- CSV-based dataset workflows
+---
 
-## Important disclaimer
+## Let's Connect
 
-All datasets in this repository are synthetic and created for educational and learning purposes only. They do not represent real students, verified salary data, or actual employment records.
+I'm open to internships, collaborations, and interesting AI/ML problems.
 
-Package values are illustrative numerical values and do not imply any real-world financial or job-market meaning. Placement labels are generated for practice and should not be treated as factual information.
+[![Email](https://img.shields.io/badge/alishaikhemail51@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishaikhemail51@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![GitHub](https://img.shields.io/badge/CodeWithAli51-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithAli51)
 
-## License and usage
+<div align="center">
 
-These datasets are intended for educational use, experimentation, and personal learning projects. If you reuse or redistribute them, please keep the attribution and synthetic-data disclaimer.
+**English · Hindi · Marathi**
 
-## Contributing
-
-Contributions, suggestions, and improvements are welcome. If you have ideas for additional educational datasets, better documentation, or more example notebooks, feel free to open an issue or submit a pull request.
-
-## Support
-
-If you find this repository useful, consider giving it a star on GitHub and sharing it with others learning data science and machine learning.
-
-Happy learning! 🚀
+</div>
